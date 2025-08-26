@@ -1,8 +1,12 @@
 Projeto realizado com API REST e Laravel 12!
 
-** Exibir localizações em mapas interativos.
-** Pesquisar e marcar pontos de interesse (como empresas, escolas, hospitais, etc.).
-** Criar aplicações escaláveis que combinam dados armazenados no banco com recursos visuais e geográficos.
+* Exibir localizações em mapas interativos.
+
+
+* Pesquisar e marcar pontos de interesse (como empresas, escolas, hospitais, etc.).
+
+
+* Criar aplicações escaláveis que combinam dados armazenados no banco com recursos visuais e geográficos.
 
 
 
